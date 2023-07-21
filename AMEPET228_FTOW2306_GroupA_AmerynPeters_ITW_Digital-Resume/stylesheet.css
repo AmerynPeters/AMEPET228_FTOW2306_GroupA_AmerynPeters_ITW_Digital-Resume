@@ -1,0 +1,102 @@
+#image {
+    width: 400px;
+    height: auto;
+}
+
+header {
+    margin-bottom: 1em;
+}
+
+body {
+    margin: 0;
+    text-align: center;
+    font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+#navbar {
+    position: fixed;
+    display: flex;
+    top: 0;
+    z-index: 1;
+    background-color: #d697c5;
+    text-decoration: underline;
+    text-decoration-color: azure;
+    justify-content: space-evenly;
+    width: 100%;
+}
+
+main {
+    display: grid;
+    grid-template-rows: 3fr;
+}
+
+h1 {
+    font-size: 70px;
+    color: #5f6b71;
+}
+
+#head-color {
+    font-size: 22px;
+    color: #b88ec4;
+}
+
+h2 {
+    color: #5f6b71;
+    font-size: 35px;
+}
+
+h3 {
+    font-style: italic;
+}
+
+h4 {
+    color: #343235;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+h3 {
+    font-style: italic;
+}
+
+h1 {
+    font-size: 70px;
+    color: #5f6b71;
+}
+
+#grey {
+    font-size: 22px;
+    color: #b88ec4;
+}
+
+#bigger_headings {
+    color: #5f6b71;
+    font-size: 35px;
+}
+
+/* iphoneXR */
+@media only screen and (max-width: 414px) {
+    #image {
+        width: 50%;
+        padding-top: 20%;
+    }
+}
+
+/* iPadAir */
+@media only screen and (max-width: 820px) {
+    #image {
+        width: 50%;
+        padding-top: 20%;
+    }
+}
+
+/* Standard Laptop/Desktop */
+@media only screen and (max-width: 1024px) {
+    #image {
+        width: 50%;
+        padding-top: 20%;
+    }
+}
