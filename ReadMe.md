@@ -1,1 +1,1 @@
-
+This is a resume website explaining my education, skills and prgrammming languages that I am able to use. It is meant to be easy-to-read, short and succint. It incldes links to social media accounts and a section to contact me. 
