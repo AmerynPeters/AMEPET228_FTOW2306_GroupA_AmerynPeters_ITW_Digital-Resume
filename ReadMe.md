@@ -1,1 +1,2 @@
 This is a resume website explaining my education, skills and prgrammming languages that I am able to use. It is meant to be easy-to-read, short and succint. It incldes links to social media accounts and a section to contact me. 
+LINK TO FIGMA WIREFRAME: https://www.figma.com/file/6dHtnfkKsjlmmX0BhnOrx1/AMEPET228_FTOW2306_GroupA_AmerynPeters_ITW_Digital-Resume?type=design&node-id=0%3A1&mode=design&t=GbNI7grcFhTNkAA6-1
